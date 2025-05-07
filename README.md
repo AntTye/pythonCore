@@ -1,0 +1,1 @@
+This is python core, I will continue to populate this github repo with python scrips and examples for personal reference.
